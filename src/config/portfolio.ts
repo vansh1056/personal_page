@@ -7,7 +7,7 @@ export const portfolioConfig = {
     email: "vanshofficial26h6@gmail.com",
     phone: "+91-9368008551",
     location: "India",
-    photo: "assect/Profile.jpg",
+    photo: "/Profile.jpg",
     about: "Detail-oriented and aspiring Data Analyst with strong communication and interpersonal skills. Experienced in Python, SQL, Power BI, and MS Excel for data cleaning, visualization, and statistical modeling. Skilled at resolving issues, ensuring compliance with data quality standards, and driving continuous improvement. Proven ability to deliver actionable insights, track business metrics, and work collaboratively with cross-functional teams to enhance customer service and product development.",
     resumeUrl: "https://drive.google.com/file/d/10CquRosKplCziT31Pb7DZ1-A_SUzltpZ/view?usp=drive_link",
     social: {
